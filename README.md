@@ -65,12 +65,4 @@ Para aprender mais sobre o Next.js, confira os seguintes recursos:
 
 Além disso, você pode conferir [o repositório do Next.js no GitHub](https://github.com/vercel/next.js) para ver contribuições e feedbacks de outros desenvolvedores.
 
-## Deploy no Vercel
-
-O deploy da sua aplicação pode ser feito facilmente utilizando a [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme). É a plataforma recomendada para a hospedagem de aplicativos Next.js.
-
-Confira a [documentação de deploy do Next.js](https://nextjs.org/docs/app/building-your-application/deploying) para mais detalhes.
-
----
-
 **RBX Robótica**: Trazendo a inovação para o futuro da robótica e automação.
